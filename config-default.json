@@ -1,0 +1,14 @@
+{
+  "youtubeApiKey": "Your YouTube API Key",
+  "databaseFile": "db",
+  "reddit": {
+    "subreddits": [
+      "gifs"
+    ],
+    "userAgent": "YouTube Reddit Poster, /u/MyUserName",
+    "clientId": "Your client ID",
+    "clientSecret": "Your client secret",
+    "username": "Your Reddit Username",
+    "password": "Your Reddit Password"
+  }
+}
