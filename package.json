@@ -1,12 +1,14 @@
 {
   "name": "youtuberedditposter",
-  "version": "1.0.0",
+  "description": "Fetches new YouTube videos and posts them to Reddit.",
+  "version": "1.0.1",
   "private": true,
   "dependencies": {
     "axios": "^0.16.2",
     "bottleneck": "^1.15.1",
     "chalk": "^1.1.3",
     "clear": "0.0.1",
+    "columnify": "latest",
     "figlet": "^1.1.2",
     "limiter": "^1.1.0",
     "lodash": "^4.17.4",
@@ -15,7 +17,6 @@
     "nedb": "^1.8.0",
     "snoowrap": "^1.14.0",
     "thread-sleep": "^2.0.0",
-    "vorpal": "^1.12.0",
-    "columnify": "latest"
+    "vorpal": "^1.12.0"
   }
 }

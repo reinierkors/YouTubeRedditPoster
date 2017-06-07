@@ -2,9 +2,10 @@
 A YouTube Bot which automatically submits new YouTube videos to Reddit as they appear.
 
 ## Install
-1. Install all dependencies: `npm install`
-2. Rename `config-default.json` to `config.json` and fill out all fields.
-3. To start, run `node app` 
+1. Clone the project: `git clone https://github.com/reinierkors/YouTubeRedditPoster.git`
+2. Install all dependencies: `npm install`
+3. Rename `config-default.json` to `config.json` and fill out all fields.
+4. To start, run `node app` 
 
 ## Background process
 You can manually run `node bgService.js` to  fetch new videos in the background.
